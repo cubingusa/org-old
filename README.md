@@ -1,2 +1,3 @@
 # org
-Static website to replace com
+
+Built with Jeykll and pushed straight to github pages.
