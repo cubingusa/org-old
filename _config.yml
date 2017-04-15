@@ -1,0 +1,12 @@
+title: CubingUSA
+baseurl: ""
+url: https://cubingusa.org
+twitter_username: CubingUSA
+facebook_page: CubingUSA
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
