@@ -34,4 +34,18 @@ $navbar-inverse-link-active-bg:             darken($navbar-inverse-bg, 10%);
 $navbar-inverse-link-disabled-color:        #444;
 $navbar-inverse-link-disabled-bg:           transparent;
 
+$font-size-base: 14px;
+
 @import "bootstrap";
+
+.cusa-logo {
+  font-size: 4em;
+
+	.cubing {
+		color: blue;
+	}
+
+	.usa {
+		color: red;
+	}
+}
