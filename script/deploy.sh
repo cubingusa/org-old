@@ -7,19 +7,19 @@ cd "$(dirname "$0")"
 SOURCE_BRANCH="master"
 TARGET_BRANCH="gh-pages"
 
-function doCompile {
+function doBuild {
   ./build.sh
 }
 
 function doTests {
-  ./tests.sh
+  ./test.sh
 }
 
 # Pull requests and commits to other branches shouldn't try to deploy, just build to verify
 if [ "$TRAVIS_PULL_REQUEST" != "false" -o "$TRAVIS_BRANCH" != "$SOURCE_BRANCH" ]; then
     echo "Skipping deploy."
+    doBuild
     doTests
-    doCompile
     exit 0
 fi
 
@@ -39,7 +39,8 @@ rm -rf * || exit 0
 
 # Run our compile script
 cd ..
-doCompile
+doBuild
+doTests
 
 # Now let's go have some fun with the cloned repo
 cd out
