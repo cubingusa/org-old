@@ -1,5 +1,6 @@
 #!/bin/bash
 set -e # Exit with nonzero exit code if anything fails
+set -x
 
 # Make sure we're in the directory containing this script
 cd "$(dirname "$0")"
