@@ -6,4 +6,4 @@ cd "$(dirname "$0")"
 # up a directory should be jekyll code.
 cd ..
 
-bundle exec htmlproofer ./_site --disable-external
+bundle exec htmlproofer ./_site --disable-external --empty-alt-ignore
