@@ -32,17 +32,17 @@ Please use the following PayPal link to donate, or contact us (see below) for mo
 
 ## Board of Directors
 
- - Timothy Reynolds (Executive Director) 
+ - Timothy Reynolds (Executive Director)
  - Vincent Sheu (Secretary)
- - Shelley Chang (Treasurer) 
+ - Shelley Chang (Treasurer)
  - Kian Barry (Chair)
- - Robert Burton       
- - Shonathon Collins   
- - James Hildreth      
- - James LaChance      
- - Felix Lee           
- - Kenneth Lu          
- - James Mertens       
+ - Robert Burton
+ - Shonathon Collins
+ - James Hildreth
+ - James LaChance
+ - Felix Lee
+ - Kenneth Lu
+ - James Mertens
 
 ## Contact Us
 
