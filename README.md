@@ -1,3 +1,3 @@
-# org
+# cubingusa.org
 
-Built with Jeykll and pushed straight to github pages.
+Interested in contributing? See our [developer crash course](https://github.com/cubingusa/org/wiki/Developer-Crash-Course).
