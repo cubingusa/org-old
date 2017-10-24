@@ -32,7 +32,7 @@ Please use the following PayPal link to donate, or contact us (see below) for mo
 
 ## Board of Directors
 
- - Timothy Reynolds (Executive Director)
+ - Kit Clement (Executive Director)
  - Vincent Sheu (Secretary)
  - Shelley Chang (Treasurer)
  - Kian Barry (Chair)
@@ -42,7 +42,6 @@ Please use the following PayPal link to donate, or contact us (see below) for mo
  - James LaChance
  - Felix Lee
  - Kenneth Lu
- - James Mertens
 
 ## Contact Us
 
